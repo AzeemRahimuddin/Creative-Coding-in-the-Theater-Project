@@ -29,4 +29,4 @@ https://github.com/user-attachments/assets/340b46ab-82e6-4ce3-9e9b-18644aba4c9b
 
 ## Project Description
 
-Write a description the personal interest or problem that your animation addresses. Then explain the user story(s) you identified, and how they help frame making your animation.
+My animation shows two sports I like—basketball and track. These are things I enjoy doing in my free time, and I wanted to use this project to share that with others. The animation has characters moving, background pictures, sounds, and words that describe how each sport feels to me. My user story says: As a student, I want to show my personal interests, in order to show others what I enjoy. This helped me stay focused while making the animation. It reminded me that I was using code to show something about myself. I added sounds like a crowd cheering and a basketball dribbling as well as movements to make the animation more fun and show what I like.
