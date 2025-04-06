@@ -25,15 +25,7 @@ https://trello.com/invite/b/67d30718ffd3f4110c432151/ATTI03f228bd75684649449685f
 
 ## Video
 
-Record a short video of your project to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown code:
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+https://github.com/user-attachments/assets/340b46ab-82e6-4ce3-9e9b-18644aba4c9b
 
 ## Project Description
 
